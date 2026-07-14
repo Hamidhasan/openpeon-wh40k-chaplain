@@ -1,0 +1,168 @@
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003123.wav
+  Duration: 00:00:03.48, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003130.wav
+  Duration: 00:00:02.98, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003131.wav
+  Duration: 00:00:02.24, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003132.wav
+  Duration: 00:00:03.54, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003133.wav
+  Duration: 00:00:03.26, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003140.wav
+  Duration: 00:00:02.67, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003141.wav
+  Duration: 00:00:02.55, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003150.wav
+  Duration: 00:00:03.96, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003151.wav
+  Duration: 00:00:03.78, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003160.wav
+  Duration: 00:00:02.45, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003161.wav
+  Duration: 00:00:02.97, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003162.wav
+  Duration: 00:00:04.42, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003163.wav
+  Duration: 00:00:03.88, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003170.wav
+  Duration: 00:00:02.76, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003171.wav
+  Duration: 00:00:02.88, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003172.wav
+  Duration: 00:00:03.76, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003180.wav
+  Duration: 00:00:03.85, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003181.wav
+  Duration: 00:00:03.56, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003182.wav
+  Duration: 00:00:02.33, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003190.wav
+  Duration: 00:00:03.82, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003191.wav
+  Duration: 00:00:03.73, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003192.wav
+  Duration: 00:00:03.15, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003193.wav
+  Duration: 00:00:02.09, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003200.wav
+  Duration: 00:00:02.00, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003201.wav
+  Duration: 00:00:03.65, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003202.wav
+  Duration: 00:00:03.31, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003210.wav
+  Duration: 00:00:01.89, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003211.wav
+  Duration: 00:00:02.57, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003212.wav
+  Duration: 00:00:02.47, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003220.wav
+  Duration: 00:00:03.78, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003221.wav
+  Duration: 00:00:03.42, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003222.wav
+  Duration: 00:00:03.55, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003230.wav
+  Duration: 00:00:04.19, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003231.wav
+  Duration: 00:00:02.45, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/1003232.wav
+  Duration: 00:00:02.08, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/ChaplainBuilt.wav
+  Duration: 00:00:03.77, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/ChaplainSelectfour.wav
+  Duration: 00:00:03.61, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/ChaplainSelectone.wav
+  Duration: 00:00:02.57, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/ChaplainSelectthree.wav
+  Duration: 00:00:03.26, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/ChaplainSelecttwo.wav
+  Duration: 00:00:02.39, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/Chaplainmoveone.wav
+  Duration: 00:00:02.79, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/Chaplainmovethree.wav
+  Duration: 00:00:04.20, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/Chaplainmovetwo.wav
+  Duration: 00:00:02.50, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_atk_1.wav
+  Duration: 00:00:01.39, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_atk_2.wav
+  Duration: 00:00:01.01, bitrate: 706 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_atk_3.wav
+  Duration: 00:00:01.85, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_atk_4.wav
+  Duration: 00:00:01.42, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_atk_5.wav
+  Duration: 00:00:01.47, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_die_1.wav
+  Duration: 00:00:02.24, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_die_2.wav
+  Duration: 00:00:01.76, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_die_3.wav
+  Duration: 00:00:01.23, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_die_4.wav
+  Duration: 00:00:01.23, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_dmg_1.wav
+  Duration: 00:00:01.13, bitrate: 705 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_dmg_2.wav
+  Duration: 00:00:00.75, bitrate: 706 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_dmg_3.wav
+  Duration: 00:00:00.86, bitrate: 706 kb/s
+Processing /home/ubuntu/code/peon-ping-wh40k-dow-chaplain/sounds/varnus_dmg_4.wav
+  Duration: 00:00:00.89, bitrate: 706 kb/s
+1003123.wav|miss the mind too small thought doubt
+1003130.wav|give you the last kill them all
+1003131.wav|i them back
+1003132.wav|right team them with saw and fire
+1003133.wav|only and war are we truly faithful
+1003140.wav|spirit us to our objective driver
+1003141.wav|i would lies elsewhere so be quick
+1003150.wav|oh to walk upon a bloodstained ground
+1003151.wav|so this is where the emperor's will brings us
+1003160.wav|sometimes shot for shot
+1003161.wav|there are tax on as really cares about paid
+1003162.wav|so who the enemy has some shred of courage
+1003163.wav|how don't a fire upon me i'm paris terms them
+1003170.wav|we have been humbled
+1003171.wav|no hours who treat
+1003172.wav|oh fuck he made a great group
+1003180.wav|i hear the drums of war again
+1003181.wav|make a stand here now
+1003182.wav|we will not or another step
+1003190.wav|nine dollar as brows
+1003191.wav|no longer really i don't i
+1003192.wav|mikey upper guy my bro
+1003193.wav|spider none
+1003200.wav|i will guide you now
+1003201.wav|my process we all could get our again
+1003202.wav|none can match our combined might
+1003210.wav|i am needed elsewhere
+1003211.wav|remember what i have taught you
+1003212.wav|i must take my leave
+1003220.wav|rarely to me brothers but we will win
+1003221.wav|may the emperor watch over us all
+1003222.wav|no income we start now of faith
+1003230.wav|the young age
+1003231.wav|then quickly
+1003232.wav|i could of my lawyer
+ChaplainBuilt.wav|i have the emperor as will made manifest
+ChaplainSelectfour.wav|you're wise counsel belies your years
+ChaplainSelectone.wav|by the emperor it show be so
+ChaplainSelectthree.wav|this is purest when it is that unquestioning
+ChaplainSelecttwo.wav|i accept the challenge
+Chaplainmoveone.wav|may you will lead us to victory
+Chaplainmovethree.wav|difficult to be sure but it shall be done
+Chaplainmovetwo.wav|i saw rally the troops to your cause
+varnus_atk_1.wav|
+varnus_atk_2.wav|no
+varnus_atk_3.wav|
+varnus_atk_4.wav|
+varnus_atk_5.wav|three
+varnus_die_1.wav|oh
+varnus_die_2.wav|ah
+varnus_die_3.wav|
+varnus_die_4.wav|ah
+varnus_dmg_1.wav|there are
+varnus_dmg_2.wav|
+varnus_dmg_3.wav|
+varnus_dmg_4.wav|who's
