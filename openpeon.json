@@ -15,47 +15,47 @@
     "session.start": {
       "sounds": [
         { "file": "ChaplainBuilt.wav", "label": "I am the Emperor's will made manifest." },
-        { "file": "ChaplainSelectthree.wav", "label": "Faith is purest when it is unquestioning." },
-        { "file": "ChaplainSelectfive.wav", "label": "Bless the mind too small for doubt." }
+      { "file": "ChaplainSelect3.wav", "label": "Faith is purest when it is unquestioning." },
+      { "file": "ChaplainSelect5.wav", "label": "Bless the mind too small for doubt." }
       ]
     },
     "task.acknowledge": {
       "sounds": [
-        { "file": "ChaplainSelectone.wav", "label": "By the Emperor, it shall be so." },
-        { "file": "ChaplainSelecttwo.wav", "label": "I accept the challenge." },
-        { "file": "Chaplainmovethree.wav", "label": "Difficult to be sure but it shall be done." },
-        { "file": "Chaplainmoveone.wav", "label": "May you lead us to victory." },
-        { "file": "Chaplainmovetwo.wav", "label": "I shall rally the troops to your cause." }
+      { "file": "ChaplainSelect1.wav", "label": "By the Emperor, it shall be so." },
+      { "file": "ChaplainSelect2.wav", "label": "I accept the challenge." },
+      { "file": "ChaplainMove3.wav", "label": "Difficult to be sure but it shall be done." },
+      { "file": "ChaplainMove1.wav", "label": "May you lead us to victory." },
+      { "file": "ChaplainMove2.wav", "label": "I shall rally the troops to your cause." }
       ]
     },
     "task.complete": {
       "sounds": [
-        { "file": "ChaplainCompleteone.wav", "label": "My brothers, we are together again." },
-        { "file": "ChaplainCompletetwo.wav", "label": "None can match our combined might." },
-        { "file": "ChaplainCompletethree.wav", "label": "May the Emperor watch over us all" },
-        { "file": "ChaplainCompletefour.wav", "label": "None can withstand our faith." }
+      { "file": "ChaplainAttach2.wav", "label": "My brothers, we are together again." },
+      { "file": "ChaplainAttach3.wav", "label": "None can match our combined might." },
+      { "file": "ChaplainVictory2.wav", "label": "May the Emperor watch over us all" },
+      { "file": "ChaplainVictory3.wav", "label": "None can withstand our faith." }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "ChaplainErrorone.wav", "label": "We have been humbled." },
-        { "file": "ChaplainErrortwo.wav", "label": "Make a stand, here and now." },
-        { "file": "ChaplainErrorthree.wav", "label": "Fall back, heed me, and regroup." }
+      { "file": "ChaplainMoraleBroken1.wav", "label": "We have been humbled." },
+      { "file": "ChaplainMoraleBroken3.wav", "label": "Fall back, heed me, and regroup." },
+      { "file": "ChaplainMoraleRecovered2.wav", "label": "Make your stand, here and now!" }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "ChaplainAttacktwo.wav", "label": "Drive them back." },
-        { "file": "ChaplainInputone.wav", "label": "Answer them, shot for shot." },
-        { "file": "ChaplainInputtwo.wav", "label": "So, the enemy has some shred of courage." },
-        { "file": "ChaplainInputthree.wav", "label": "Rally to me brothers, and we will win." }
+      { "file": "ChaplainAttack2.wav", "label": "Drive them back." },
+      { "file": "ChaplainUnderAttack1.wav", "label": "Answer them, shot for shot." },
+      { "file": "ChaplainUnderAttack3.wav", "label": "So, the enemy has some shred of courage." },
+      { "file": "ChaplainVictory1.wav", "label": "Rally to me brothers, and we will win." }
       ]
     },
     "resource.limit": {
       "sounds": [
-        { "file": "ChaplainLimitone.wav", "label": "I am needed elsewhere." },
-        { "file": "ChaplainLimittwo.wav", "label": "Remember what I have taught you." },
-        { "file": "ChaplainLimitthree.wav", "label": "I must take my leave." }
+      { "file": "ChaplainDetach1.wav", "label": "I am needed elsewhere." },
+      { "file": "ChaplainDetach2.wav", "label": "Remember what I have taught you." },
+      { "file": "ChaplainDetach3.wav", "label": "I must take my leave." }
       ]
     }
   }
