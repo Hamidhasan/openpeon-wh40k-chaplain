@@ -2,41 +2,41 @@ ChaplainAttack1.wav|'Till the last, kill them all.
 ChaplainAttack2.wav|Drive them back.
 ChaplainAttack3.wav|Redeem them with sword and fire!
 ChaplainAttack4.wav|Only in war are we truly faithful.
-ChaplainMount1.wav|spirit us to our objective driver
-ChaplainMount2.wav|i would lies elsewhere so be quick
-ChaplainDismount1.wav|oh to walk upon a bloodstained ground
-ChaplainDismount2.wav|so this is where the emperor's will brings us
+ChaplainMount1.wav|Spirit us to our objective driver.
+ChaplainMount2.wav|Our duty lies elsewhere, so be quick!
+ChaplainDismount1.wav|Oh to walk upon a bloodstained ground.
+ChaplainDismount2.wav|So this is where the emperor's will brings us.
 ChaplainUnderAttack1.wav|Answer them, shot for shot.
-ChaplainUnderAttack2.wav|there are tax on as really cares about paid
+ChaplainUnderAttack2.wav|Their attacks are as weak as their faith!
 ChaplainUnderAttack3.wav|So, the enemy has some shred of courage.
-ChaplainUnderAttack4.wav|how don't a fire upon me i'm paris terms them
+ChaplainUnderAttack4.wav|How dare they fire upon the Emperor's chosen?
 ChaplainMoraleBroken1.wav|We have been humbled.
-ChaplainMoraleBroken2.wav|no hours who treat
+ChaplainMoraleBroken2.wav|The battle is not ours.  Retreat!
 ChaplainMoraleBroken3.wav|Fall back, heed me, and regroup.
-ChaplainMoraleRecovered1.wav|i hear the drums of war again
+ChaplainMoraleRecovered1.wav|I hear the drums of war again.
 ChaplainMoraleRecovered2.wav|Make your stand, here and now!
-ChaplainMoraleRecovered3.wav|we will not or another step
-ChaplainBattlecry1.wav|nine dollar as brows
-ChaplainBattlecry2.wav|no longer really i don't i
-ChaplainBattlecry3.wav|mikey upper guy my bro
-ChaplainBattlecry4.wav|spider none
-ChaplainAttach1.wav|i will guide you now
+ChaplainMoraleRecovered3.wav|We will not falter another step!
+ChaplainBattlecry1.wav|We live and die as brothers!
+ChaplainBattlecry2.wav|Pain now, reward in the afterlife!
+ChaplainBattlecry3.wav|By the emperor, guide my blow!
+ChaplainBattlecry4.wav|Spare none!
+ChaplainAttach1.wav|I will guide you now.
 ChaplainAttach2.wav|My brothers, we are together again.
 ChaplainAttach3.wav|None can match our combined might.
 ChaplainDetach1.wav|I am needed elsewhere.
 ChaplainDetach2.wav|Remember what I have taught you.
 ChaplainDetach3.wav|I must take my leave.
 ChaplainVictory1.wav|Rally to me brothers, and we will win.
-ChaplainVictory2.wav|May the Emperor watch over us all
-ChaplainVictory3.wav|no income we start now of faith
-ChaplainCharge1.wav|the young age
-ChaplainCharge2.wav|then quickly
-ChaplainCharge3.wav|i could of my lawyer
+ChaplainVictory2.wav|May the Emperor watch over us all.
+ChaplainVictory3.wav|None can withstand our faith!
+ChaplainCharge1.wav|For the glory of the Imperium, charge!
+ChaplainCharge2.wav|Take them, and quickly!
+ChaplainCharge3.wav|Break the enemy line!
 ChaplainBuilt.wav|I am the Emperor's will made manifest.
 ChaplainSelect1.wav|By the Emperor, it shall be so.
 ChaplainSelect2.wav|I accept the challenge.
 ChaplainSelect3.wav|Faith is purest when it is unquestioning.
-ChaplainSelect4.wav|you're wise counsel belies your years
+ChaplainSelect4.wav|You're wise counsel belies your years.
 ChaplainSelect5.wav|Bless the mind too small for doubt.
 ChaplainMove1.wav|May you lead us to victory.
 ChaplainMove2.wav|I shall rally the troops to your cause.
